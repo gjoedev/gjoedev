@@ -1,7 +1,7 @@
 ### Hey there, Im gjoe 👋
 
 Im a pretty stupid developer who has experience in these languages:
-
+[<img src="./recources/js.png" alt = "Javascript" width = "40" height = "40"/>][html]
 
 <!--
 **gjoedev/gjoedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
