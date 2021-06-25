@@ -1,7 +1,13 @@
 ### Hey there, Im gjoe 👋
 
-Im a pretty stupid developer who has experience in these languages:
-[<img src="./recources/js.png" alt = "Javascript" width = "40" height = "40"/>][html]
+Im a pretty dumb developer (and gaming addict) who's worked on a projects in Multiple Different Languages.
+
+### Languages
+
+Here are the languages I've worked with in the past
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt = "Javascript" width = "40" height = "40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt = "Csharp (Unity)" width = "40" height = "40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" alt = "HTML" width = "40" height = "40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "40" height = "40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt = "Csharp (Unity)" width = "40" height = "40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg" alt = "Java" width = "40" height = "40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" width = "40" height = "40"/>
+
 
 <!--
 **gjoedev/gjoedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
