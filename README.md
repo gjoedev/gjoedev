@@ -14,7 +14,7 @@ Here are the languages I've worked with in the past
 
 Here are some tools I've worked with
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt = "Vscode" height = "40"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" alt = "Intell IJ Idea" height = "40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt = "Vscode" height = "40"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" alt = "Visual Studio" height = "40"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" alt = "Intell IJ Idea" height = "40"> <img src="./recources/pdn.png" alt = "Paint Dot Net" height = "40">
 
 <!--
 **gjoedev/gjoedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
