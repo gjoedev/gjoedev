@@ -1,4 +1,4 @@
-### Hey there, Im gjoe 👋
+## Hey there, Im gjoe 👋
 
 Im a pretty dumb developer (and gaming addict) who's worked on a projects in Multiple Different Languages.
 
@@ -37,6 +37,21 @@ Here are some tools I've worked with
 Here are some of the games I play
 
 [<img src="./recources/mc.png/" alt = "Minecraft" height = "40">][mc][<img src="./recources/rl.png/" alt = "Rocket League" height = "40">][rl][<img src = "./recources/fh4.png" alt = "Forza Horizon 4" height = "40">][fh4][<img src = "./recources/ms.png" alt = "Minesweeper" height = "40">][ms]
+
+### Projects 
+
+Here are some projects I wanted to pin
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gjoedev&repo=Demolay-Event-Bot)](https://github.com/gjoedev/Demolay-Event-Bot)
+
+### Github Stats
+
+![Gjoes' Github Stats](https://github-readme-stats.vercel.app/api?username=Gjoedev&theme=vue&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjoedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!--
