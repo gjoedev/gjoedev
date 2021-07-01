@@ -48,7 +48,8 @@ Here are some projects I wanted to pin
 
 ![Gjoes' Github Stats](https://github-readme-stats.vercel.app/api?username=Gjoedev&theme=vue&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjoedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjoedev&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
