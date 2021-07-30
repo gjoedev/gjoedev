@@ -15,28 +15,30 @@ Im a pretty dumb developer (and gaming addict) who's worked on a projects in Mul
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
 [java]: https://adoptopenjdk.net/
 [python]: https://www.python.org/
+[markdown]: https://www.markdownguide.org/
 
 [mc]: https://www.minecraft.net/en-us
 [rl]: https://www.rocketleague.com/
 [fh4]: https://forzamotorsport.net/en-us/games/fh4
 [ms]: https://minesweeperonline.com/
+[fs2020]: https://www.flightsimulator.com/
 
 ### Languages
 
 Here are the languages I've worked with in the past
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt = "Javascript" width = "40" height = "40"/>][nodejs] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt = "Csharp (Unity)" width = "40" height = "40"/>][csharp]  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" alt = "HTML" width = "40" height = "40"/>][html5] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "40" height = "40"/>][css] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg" alt = "Java" width = "40" height = "40"/>][java] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" width = "40" height = "40"/>][python]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" alt = "Javascript" title = "NodeJS / Javascript" width = "40" height = "40"/>][nodejs] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt = "Csharp (Unity)" title = "Csharp (Unity)" width = "40" height = "40"/>][csharp]  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" alt = "HTML" title = "HTML" width = "40" height = "40"/>][html5] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" alt = "CSS" title = "CSS" width = "40" height = "40"/>][css] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg" alt = "Java" title = "Java" width = "40" height = "40"/>][java] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" alt = "Python" title = "Python" width = "40" height = "40"/>][python] [<img src="./recources/md.png" alt = "Markdown" title = "Markdown" height = "40">][markdown]
 ### Tools
 
 Here are some tools I've worked with
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt = "Vscode" height = "40">][vscode] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" alt = "Visual Studio" height = "40">][Visual Studio] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" alt = "Intell IJ Idea" height = "40">][IntelliJ] [<img src="./recources/pdn.png" alt = "Paint Dot Net" height = "40">][pdn] [<img src="./recources/unity.png" alt = "Unity" height = "40">][unity]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt = "Vscode" title = "Visual Studio Code" height = "40">][vscode] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg" alt = "Visual Studio" title = "Visual Studio" height = "40">][Visual Studio] [<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg" alt = "Intell IJ Idea" title = "Intell IJ Idea" height = "40">][IntelliJ] [<img src="./recources/pdn.png" alt = "Paint Dot Net" title = "Paint.net" height = "40">][pdn] [<img src="./recources/unity.png" alt = "Unity" title = "Unity" height = "40">][unity]
 
 ### Games
 
 Here are some of the games I play
 
-[<img src="./recources/mc.png/" alt = "Minecraft" height = "40">][mc][<img src="./recources/rl.png/" alt = "Rocket League" height = "40">][rl][<img src = "./recources/fh4.png" alt = "Forza Horizon 4" height = "40">][fh4][<img src = "./recources/ms.png" alt = "Minesweeper" height = "40">][ms]
+[<img src="./recources/mc.png/" alt = "Minecraft" title = "Minecraft" height = "40">][mc][<img src="./recources/rl.png/" alt = "Rocket League" title = "Rocket League" height = "40">][rl][<img src = "./recources/fh4.png" alt = "Forza Horizon 4" title = "Forza Horizon 4" height = "40">][fh4][<img src = "./recources/ms.png" alt = "Minesweeper" title = "Minesweeper" height = "40">][ms][<img src = "./recources/fs2020.png/" alt = "Microsoft Flight Simulator 2020" title = "Microsoft Flight Simulator 2020" height = "40">][fs2020]
 
 ### Projects 
 
